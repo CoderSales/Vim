@@ -1,7 +1,7 @@
 ## commands<br>
 ### copy and paste a whole line in vim:<br>
 Ctrl + V - Enter Visual Block Mode<br>
-yy       - Copy line<br>
+yy       - Copy line <br>
 down     - Move cursor<br>
 P        - Put (Paste line)
 
