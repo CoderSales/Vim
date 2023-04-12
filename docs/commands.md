@@ -15,6 +15,8 @@ Move the cursor to where you want to paste your selection.
 Press P (uppercase) to paste before your cursor.
 ` [Copy & Paste in Vim / Vi](https://www.warp.dev/terminus/vim-copy-paste)
 
+-------------------------------------------
+
 ### Move
 #### `fx`/`Fx` to occurrence
 `fx` - jump to `next` occurrence of character x
