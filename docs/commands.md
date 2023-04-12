@@ -15,3 +15,14 @@ Move the cursor to where you want to paste your selection.
 Press P (uppercase) to paste before your cursor.
 ` [Copy & Paste in Vim / Vi](https://www.warp.dev/terminus/vim-copy-paste)
 
+### Move
+#### `fx`/`Fx` to occurrence
+`fx` - jump to `next` occurrence of character x
+`Fx` - jump to the `previous` occurrence of character x
+
+#### `0`/`$` start / end of line
+`0` - jump to the start of the line
+`$` - jump to the end of the line
+
+#### `%` to matching character
+`%` - move to matching character (default supported pairs: '()', '{}', '[]' - use :h matchpairs in vim for more info)
