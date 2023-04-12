@@ -7,7 +7,7 @@ P        - Put (Paste line)
 
 
 - `Make sure you're in the normal mode. Press Esc to be sure. Then copy the entire line by pressing yy (more info :help yy ). · Paste the line by ...` [How to copy and paste a line in Vim?](https://www.vimfromscratch.com/articles/how-to-copy-and-paste-a-line-in-vim)<br>
-- Select line Ref:
+- Reference to Select line:
 
 ```
 
