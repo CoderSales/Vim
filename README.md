@@ -34,6 +34,8 @@ after that:
 
 `:2` -> to go to line 2
 
+____
+
 [switch modes: timestamp 1:33](https://youtu.be/-txKSRn0qeA?t=90)
 
 `i` -> insert mode
