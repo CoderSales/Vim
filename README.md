@@ -14,7 +14,11 @@ _____
 
 x -> delete 1 character
 
+
+
 dd -> delete 1 line
+
+
 
 u undo
 
@@ -22,7 +26,11 @@ ____
 
 :set number -> add line numbers
 
+
+
 after that:
+
+
 
 :2 -> to go to line 2
 
