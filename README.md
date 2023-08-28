@@ -24,7 +24,7 @@ _____
 
 ____
 
-:set` number -> add line numbers
+`:set` number -> add line numbers
 
 
 
