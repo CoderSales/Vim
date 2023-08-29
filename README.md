@@ -4,9 +4,9 @@
 
 `h` left
 
-`j` up
+`j` down
 
-`k` down
+`k` up
 
 `l` right
 
