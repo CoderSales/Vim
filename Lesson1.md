@@ -17,3 +17,8 @@ If you're on Windows, you simply don't have those common Linux commands like ls 
 (The equivalents would be dir and echo %CD%, resp.)
 ```
 [ls quivalent in Vim on Windows](https://stackoverflow.com/questions/27845530/external-commands-from-vim-are-not-recognized-including-ls-and-pwd)
+
+Note: stopped working
+____
+
+[customise vim](https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/)
