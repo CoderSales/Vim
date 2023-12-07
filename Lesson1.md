@@ -9,6 +9,8 @@ d | delete [Search result](https://www.google.com/search?q=delete+in+vim&rlz=1C1
 
 _____
 
+ls -> dir
+
 ```
 If you're on Windows, you simply don't have those common Linux commands like ls and pwd.
 
