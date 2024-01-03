@@ -48,6 +48,10 @@ ____
 
 `:!` -> run command (followed by shell command)
 
+## tutorials
+
+[interactive vim tutorial](https://www.openvim.com/sandbox.html)
+
 ## [references](https://github.com/CoderSales/Vim/blob/main/docs/references.md)
 
 [Vim in 100 Seconds | Fireship](https://youtu.be/-txKSRn0qeA?t=68)
